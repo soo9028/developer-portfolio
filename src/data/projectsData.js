@@ -20,7 +20,7 @@ export const projectsData = [
       'This app is made for parents who want to manage their kids" schedules in a smarter, more efficent way.',
     tags: ['React Native', 'Firebase'],
     code: 'https://github.com/soo9028/umm-app-rn',
-    demo: '',
+    demo: 'https://play.google.com/store/apps/details?id=com.visuworks.ummapprn&hl=ko&gl=US',
     image: three,
   },
   {
